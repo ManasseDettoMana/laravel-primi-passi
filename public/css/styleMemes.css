@@ -1,0 +1,12 @@
+div{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+img{
+    width: 450px;
+    height: 450px;
+    margin-bottom: 50px;
+}
