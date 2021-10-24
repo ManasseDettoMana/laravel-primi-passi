@@ -20,3 +20,7 @@ Route::get('/', function () {
 Route::get('/egg', function () {
     return view('egg');
 });
+
+Route::get('/memes', function () {
+    return view('memes');
+});
